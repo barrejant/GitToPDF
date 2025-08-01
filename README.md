@@ -1,4 +1,4 @@
-## GitHub Codes to PDF Converter
+## GitHub Repository Codes to PDF Converter
 
 This script automatically finds specified source code files in your repository, combines them, and generates a single, well-formatted PDF document. It's useful for creating a comprehensive code archive or for code review purposes.
 
